@@ -46,3 +46,4 @@ Para cada parcela debes
 * Agregue el archivo PNG y el archivo de código R a su repositorio de git
 
 Cuando haya terminado con la tarea, envíe su repositorio de git a GitHub para que la versión de GitHub de su repositorio esté actualizada. Debe haber cuatro archivos PNG y cuatro archivos de código R.
+
