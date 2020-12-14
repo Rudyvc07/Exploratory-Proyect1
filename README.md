@@ -47,3 +47,14 @@ Para cada parcela debes
 
 Cuando haya terminado con la tarea, envíe su repositorio de git a GitHub para que la versión de GitHub de su repositorio esté actualizada. Debe haber cuatro archivos PNG y cuatro archivos de código R.
 
+## plot 1 
+![](https://github.com/Rudyvc07/Exploratory-Proyect1/blob/main/plot1.png)
+
+## plot 2
+![](https://github.com/Rudyvc07/Exploratory-Proyect1/blob/main/plot2.png)
+
+## plot 3
+![](https://github.com/Rudyvc07/Exploratory-Proyect1/blob/main/plot3.png)
+
+## plot 4
+![](https://github.com/Rudyvc07/Exploratory-Proyect1/blob/main/plot4.png)
